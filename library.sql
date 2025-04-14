@@ -1,9 +1,7 @@
 /*
 Problem Statement: Procedure to update book status using trigger
 Name:- Abhishek
-Batch:- AS3
-PRN:- UCS21M1045
-Rno:- 45
+
 */
 
 /*Trigger*/
