@@ -1,9 +1,6 @@
 /*
 Problem Statement: Create a function to determine user level using if_else statement
 Name:- Abhishek Gaikwad
-Batch:- AS3
-Rno:- 45
-PRN no. :- UCS21M1045
 */
 
 Delimiter $$
