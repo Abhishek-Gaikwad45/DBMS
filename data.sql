@@ -1,8 +1,6 @@
 '''
 Name:- Abhishek Gaikwad
-Batch:- AS3
-PRN:- UCS21M1045
-Rno:- 45
+
 '''
 
 echo " enter eno | ename | esal | desg | dno | grade "
