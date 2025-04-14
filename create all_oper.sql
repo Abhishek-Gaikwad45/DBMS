@@ -1,9 +1,6 @@
 /*
 Problem Statement: Perform different operations on student and dept table.
 Name:- Abhishek Gaikwad
-Batch:- AS3
-Rno:- 45
-PRN no. :- UCS21M1045
 */
 mysql> use Operations;
 Reading table information for completion of table and column names
