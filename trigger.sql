@@ -1,9 +1,7 @@
 /*
 Problem Statement:- Create a trigger and procedure to update rating of a sailor
 Name:- Abhishek Gaikwad
-Batch:- AS3
-Rno:- 45
-PRN no. :- UCS21M1045
+
 */
 
 Delimiter $$
