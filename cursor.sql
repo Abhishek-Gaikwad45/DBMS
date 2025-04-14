@@ -1,10 +1,7 @@
 /* Problem statement : 
    Creating a Cursor to copy procedure data of one table into another table;
    Name:- Abhishek Gaikwad
-   Class:- S.Y.
-   Div:- A
-   Batch:- AS3
-   Roll no:- 45
+ 
 */
 
 Delimiter $$
